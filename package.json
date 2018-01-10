@@ -1,11 +1,8 @@
 {
   "name": "ru.rostel",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "emty",
   "main": "",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/maurjiu/ru.rostel.git"
