@@ -1,0 +1,36 @@
+{
+  "name": "ru.rostel",
+  "version": "1.0.8",
+  "description": "emty",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "stf",
+    "nunit",
+    "android",
+    "autotest",
+    "xamarin"
+  ],
+  "author": "Modin Andrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurjiu/ru.rostel/issues"
+  },
+  "homepage": "https://github.com/maurjiu/ru.rostel#readme",
+  "dependencies":
+  { "fs": "latest",
+    "path":"latest",
+    "ncp":"latest",
+    "adbkit":"latest",
+    "bluebird":"latest",
+    "https":"latest",
+    "hockeyapp-api-wrapper":"latest",
+    "swagger-client":"2.1.32"
+  }
+}
